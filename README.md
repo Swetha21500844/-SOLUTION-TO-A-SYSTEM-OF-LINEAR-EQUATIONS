@@ -22,6 +22,8 @@ print(le)
 ```
 
 ## Output:
+![lineqn output](https://user-images.githubusercontent.com/94228215/144441893-2f4e1322-dbee-4528-b383-b625a672f01e.PNG)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
