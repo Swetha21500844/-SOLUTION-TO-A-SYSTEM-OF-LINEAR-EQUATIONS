@@ -21,8 +21,8 @@ le=np.linalg.solve(A,B)
 print(le)
 ```
 
-## Output:
-![lineqn output](https://user-images.githubusercontent.com/94228215/144441893-2f4e1322-dbee-4528-b383-b625a672f01e.PNG)
+## Output:![image](https://user-images.githubusercontent.com/94228215/154509399-262d91db-35de-4c60-9a8c-746b50f8aa9f.png)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
